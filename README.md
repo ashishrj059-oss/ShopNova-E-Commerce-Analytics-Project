@@ -42,6 +42,8 @@ Power BI: Interactive executive dashboards and dynamic KPI performance analysis.
 
 MySQL Workbench: Data querying, schema relational modeling, and strict KPI validation (shopnova_db).
 
+🎯 Key Performance Indicators (KPIs)
+
 Category | KPI Name | Description | SQL / Calculation Formula | Source Table |
 | :--- | :--- | :--- | :--- | :--- |
 | **Financial & Sales** | Total Orders | Total count of unique customer orders placed. | `COUNT(DISTINCT Order_ID)` | `orders` |
