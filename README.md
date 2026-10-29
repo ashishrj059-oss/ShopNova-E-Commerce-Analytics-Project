@@ -4,7 +4,7 @@ ShopNova: E-Commerce Business Analytics Project
 
 Welcome to the ShopNova Business Analytics repository! This project delivers a comprehensive, end-to-end data analytics pipeline and interactive business intelligence framework designed to analyze sales performance, regional customer behaviors, product profit margins, and revenue drivers to optimize ShopNova's quarterly revenues.
 
-👥 Project Team
+**👥 Project Team**
 
 Yash Mundhe
 
@@ -18,7 +18,7 @@ Shravani
 
 Vaishnavi
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 Sales & Revenue Tracking: Monitor total gross sales, net profit margins, and order volume trends across multiple product lines.
 
@@ -32,7 +32,7 @@ Seasonal Identification: Analyze order patterns and demand surges during major h
 
 Automated BI: Establish robust SQL-to-Dashboard pipelines enabling real-time executive decision-making via Power BI and Tableau.
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 
 Microsoft Excel: Data analysis, PivotTables, KPIs, and foundational trend examination.
 
@@ -42,7 +42,7 @@ Power BI: Interactive executive dashboards and dynamic KPI performance analysis.
 
 MySQL Workbench: Data querying, schema relational modeling, and strict KPI validation (shopnova_db).
 
-🎯 Key Performance Indicators (KPIs)
+**🎯 Key Performance Indicators (KPIs)**
 
 Category | KPI Name | Description | SQL / Calculation Formula | Source Table |
 | :--- | :--- | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ Category | KPI Name | Description | SQL / Calculation Formula | Source Table |
 | | Campaigns by Channel | Distribution of campaigns across acquisition channels. | `COUNT(*) GROUP BY Channel` | `campaigns` |
 | | Return on Ad Spend (ROAS) | Revenue generated relative to marketing investment. | `Revenue Attributed / Total Channel Spend` | `campaigns & orders` |
 
-📊 Dashboards & Analytics Architecture
+**📊 Dashboards & Analytics Architecture**
 
 This project features multi-platform visualization suites:
 
@@ -80,7 +80,7 @@ Tableau Dashboards: Focuses on regional operational SLA breaches, return root ca
 
 MySQL Database Scripts: Validates row counts and executes complex KPI queries across products, customers, campaigns, orders, and returns tables.
 
-💡 Major Business Insights
+**💡 Major Business Insights**
 
 Top-Selling Products: A small group of popular products drives most total sales, while a large inventory portion sells rarely.
 
@@ -94,7 +94,7 @@ Sales Locations: Certain cities and regions generate a much higher density of in
 
 Traffic Sources: Direct visitors and natural organic search users tend to buy more items than users arriving from social media ads.
 
-📈 Actionable Recommendations
+**📈 Actionable Recommendations**
 
 Focus on Loyal Customers: Reward repeat buyers with special perks instead of relying solely on heavy sitewide discounts that hurt overall profit.
 
