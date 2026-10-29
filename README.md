@@ -1,12 +1,12 @@
-# ShopNova-E-Commerce-Analytics-Project
+# 🏨 ShopNova-E-Commerce-Analytics-Project
 
 Welcome to the ShopNova Business Analytics repository! This project delivers a comprehensive, end-to-end data analytics pipeline and interactive business intelligence framework designed to analyze sales performance, regional customer behaviors, product profit margins, and revenue drivers to optimize ShopNova's quarterly revenues.
 
 **👥 Project Team**
 
-Yash Mundhe
-
 Ashish Raj
+
+Yash Mundhe
 
 Rohit Chauhan
 
@@ -15,6 +15,10 @@ Armaan
 Shravani
 
 Vaishnavi
+
+**📌Executive Summary**
+
+The ShopNova E-Commerce Analytics Project is an end-to-end business intelligence and data analytics initiative designed to evaluate multi-channel e-commerce performance, customer segmentation behavior, operational fulfillment efficiency, and marketing return on investment (ROAS). By unifying data across relational SQL databases, Excel financial models, Power BI, and Tableau dashboards, this project delivers actionable insights to mitigate revenue leakage and streamline supply chain bottlenecks.
 
 **🎯 Project Objectives**
 
@@ -91,6 +95,30 @@ Customer Types: Regular loyal buyers demonstrate distinct purchasing behavior co
 Sales Locations: Certain cities and regions generate a much higher density of incoming orders than other geographic zones.
 
 Traffic Sources: Direct visitors and natural organic search users tend to buy more items than users arriving from social media ads.
+
+**📈 Key Performance Highlights**
+
+Gross Merchandise Value (GMV): ₹161.68M across total commercial transactions.
+
+Net Revenue Realized: ₹113.40M (post-discounts and deductions).
+
+Total Order Volume: 7,562 successfully processed customer orders.
+
+Average Order Value (AOV): ₹18,694, reflecting a strong premium basket size.
+
+Fulfillment & Delivery Performance:
+
+Overall Delivery Rate: 80.15% (Delivered orders) with an average shipping duration of 3.73 days.
+
+On-Time Delivery Rate: 53.02%, highlighting regional SLA breach challenges that require supply chain optimization.
+
+Returns & Resolutions:
+
+Overall Return Rate: 9.46%, driven primarily by customer preference shifts ("Changed mind") and product sizing/fit issues.
+
+Average Return Resolution Time: 3.91 days.
+
+Marketing & Acquisition: Campaigns span 9 distinct channels, with Email and Search ads capturing top revenue share, supported by an optimized discount rate of 13.18%.
 
 **📈 Actionable Recommendations**
 
