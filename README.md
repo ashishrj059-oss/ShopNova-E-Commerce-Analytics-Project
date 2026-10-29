@@ -1,7 +1,5 @@
 # ShopNova-E-Commerce-Analytics-Project
 
-ShopNova: E-Commerce Business Analytics Project
-
 Welcome to the ShopNova Business Analytics repository! This project delivers a comprehensive, end-to-end data analytics pipeline and interactive business intelligence framework designed to analyze sales performance, regional customer behaviors, product profit margins, and revenue drivers to optimize ShopNova's quarterly revenues.
 
 **👥 Project Team**
